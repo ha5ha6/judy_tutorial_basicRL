@@ -6,7 +6,7 @@ This repo includes
 - reading notes and some python implementations from **Reinforcement Learning an Introduction 2nd Edition** by Sutton and Barto
 - some interesting extensions and papers throughout the reading
 
-Here is a detailed note of BasicRL (still under construction):
+Here is a detailed note of **basicRL** (still under construction):
 
 https://ha5ha6.github.io/judy_blog/basicrl/
 
