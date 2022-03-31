@@ -1,8 +1,8 @@
-## judy tutorial
+## basicRL
 
 This repo includes
 
-- slides of BasicRL tutorials made by Judy
+- slides of **basicRL** tutorials made by Judy
 - reading notes and some python implementations from **Reinforcement Learning an Introduction 2nd Edition** by Sutton and Barto
 - some interesting extensions and papers throughout the reading
 
