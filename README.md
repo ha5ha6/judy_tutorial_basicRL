@@ -1,1 +1,1 @@
-# judy_lecture
+# judy_tutorial
