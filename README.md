@@ -12,6 +12,10 @@ https://ha5ha6.github.io/judy_blog/basicrl/
 
 Let me know if you found any typo or mistakes.
 
+## content list
+
+**basicRL_1** - explanations of RL basic concepts like agent-environment interactions, (discrete/continuous) states, (discrete/continuous) actions, (the art of) rewards, (deterministic/stochastic) policies, (deterministic/stochastic) dynamics, and MDP
+
 ## some interesting papers
 
 Dulac-Arnold, Gabriel, et al. "Deep reinforcement learning in large discrete action spaces." arXiv preprint arXiv:1512.07679 (2015).
