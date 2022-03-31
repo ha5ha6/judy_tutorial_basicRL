@@ -10,7 +10,7 @@ Here is a detailed note of BasicRL (still under construction):
 
 https://ha5ha6.github.io/judy_blog/basicrl/
 
-Let me know if you found any typo or mistakes :)
+Let me know if you found any typo or mistakes.
 
 ## some interesting papers
 
