@@ -32,6 +32,10 @@ Frémaux, Nicolas, Henning Sprekeler, and Wulfram Gerstner. "Reinforcement learn
 
 Parisi, Simone, et al. "Long-Term Visitation Value for Deep Exploration in Sparse-Reward Reinforcement Learning." Algorithms 15.3 (2022): 81.
 
+Sugiyama, Masashi, et al. "Geodesic Gaussian kernels for value function approximation." Autonomous Robots 25.3 (2008): 287-304.
+
+Osogami, Takayuki, and Makoto Otsuka. "Seven neurons memorizing sequences of alphabetical images via spike-timing dependent plasticity." Scientific reports 5.1 (2015): 1-13.
+
 
 ## Further Reading
 
