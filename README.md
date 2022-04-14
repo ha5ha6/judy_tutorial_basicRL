@@ -10,7 +10,7 @@ Here is a detailed note of **basicRL**:
 
 https://ha5ha6.github.io/judy_blog/basicrl/
 
-Here are some classic implementations of RL in control:
+Here are some classic implementations of **RL in control**:
 
 https://ha5ha6.github.io/judy_blog/cartpole/
 
