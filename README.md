@@ -36,3 +36,11 @@ Haarnoja, Tuomas, et al. "Learning to walk via deep reinforcement learning." arX
 **Algorithms for Reinforcement learning** by Csaba Szepesvari
 
 **Markov Decision Processes in Artificial Intelligence** by Olivier Sigaud, Olivier Buffet
+
+### git memo
+
+git add .
+
+git commit -m 'something'
+
+git push origin main
