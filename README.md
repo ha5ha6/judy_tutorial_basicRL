@@ -28,6 +28,10 @@ Dulac-Arnold, Gabriel, et al. "Deep reinforcement learning in large discrete act
 
 Haarnoja, Tuomas, et al. "Learning to walk via deep reinforcement learning." arXiv preprint arXiv:1812.11103 (2018).
 
+Frémaux, Nicolas, Henning Sprekeler, and Wulfram Gerstner. "Reinforcement learning using a continuous time actor-critic framework with spiking neurons." PLoS computational biology 9.4 (2013): e1003024.
+
+Parisi, Simone, et al. "Long-Term Visitation Value for Deep Exploration in Sparse-Reward Reinforcement Learning." Algorithms 15.3 (2022): 81.
+
 
 ## Further Reading
 
