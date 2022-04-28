@@ -6,9 +6,11 @@ This repo includes
 - reading notes and some python implementations from **Reinforcement Learning an Introduction 2nd Edition** by Sutton and Barto
 - some interesting extensions and papers throughout the reading
 
-Here is a detailed note of **basicRL**:
+Here are some detailed notes of **basicRL**:
 
 https://ha5ha6.github.io/judy_blog/basicrl/
+
+https://ha5ha6.github.io/judy_blog/td/
 
 Here are some classic implementations of **RL in control**:
 
@@ -21,6 +23,8 @@ Let me know if you found any typo or mistakes :)
 **basicRL_1** - explanations of basic RL concepts like agent-environment interactions, (discrete/continuous) states, (discrete/continuous) actions, (the art of) rewards, (deterministic/stochastic) policies, (deterministic/stochastic) dynamics, and MDP
 
 **basicRL_2** - explanations of the goal of RL, with ingredients like episode, history trajectory, return, discounting factor, value functions, optimal value functions and optimal policy
+
+**basicRL_3** - explanations of the learning mechanism of RL, including Bellman equations, one-step update rules, generalized policy iteration, Q-learning and Cliff Walking example
 
 ## Interesting Papers
 
