@@ -40,6 +40,9 @@ Sugiyama, Masashi, et al. "Geodesic Gaussian kernels for value function approxim
 
 Osogami, Takayuki, and Makoto Otsuka. "Seven neurons memorizing sequences of alphabetical images via spike-timing dependent plasticity." Scientific reports 5.1 (2015): 1-13.
 
+Deisenroth, Marc Peter, Gerhard Neumann, and Jan Peters. "A survey on policy search for robotics." Foundations and trends in Robotics 2.1-2 (2013): 388-403.
+
+Kober, Jens, J. Andrew Bagnell, and Jan Peters. "Reinforcement learning in robotics: A survey." The International Journal of Robotics Research 32.11 (2013): 1238-1274.
 
 ## Further Reading
 
