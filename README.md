@@ -91,3 +91,5 @@ Kober, Jens, J. Andrew Bagnell, and Jan Peters. "Reinforcement learning in robot
 [\[The Mathematical Engineering of Deep Learning\]](https://deeplearningmath.org/)
 
 [\[Python Programming And Numerical Methods: A Guide For Engineers And Scientists\]](https://pythonnumericalmethods.berkeley.edu/notebooks/Index.html)
+
+[\[Wolfram Alpha\]](https://www.wolframalpha.com/)
