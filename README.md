@@ -12,6 +12,8 @@ https://ha5ha6.github.io/judy_blog/basicrl/
 
 https://ha5ha6.github.io/judy_blog/td/
 
+https://ha5ha6.github.io/judy_blog/pgac/
+
 Here are some classic implementations of **RL in control**:
 
 https://ha5ha6.github.io/judy_blog/cartpole/
@@ -51,3 +53,41 @@ Kober, Jens, J. Andrew Bagnell, and Jan Peters. "Reinforcement learning in robot
 **Algorithms for Reinforcement learning** by Csaba Szepesvari
 
 **Markov Decision Processes in Artificial Intelligence** by Olivier Sigaud, Olivier Buffet
+
+**Dynamic Programming and Optimal Control** by Dimitri Bertsekas
+
+**Pattern Recognition and Machine Learning** by Christopher Bishop
+
+**The Elements of Statistical Learning** by Jerome H. Friedman, Robert Tibshirani, and Trevor Hastie
+
+**Machine Learning: a Probabilistic Perspective** by Kevin Patrick Murphy
+
+**Deep Learning** by Aaron Courville, Ian Goodfellow, and Yoshua Bengio
+
+**Optimization for Machine Learning** by Suvrit Sra, Sebastian Nowozin and Stephen J. Wright
+
+**Convex Optimization** by Stephen Boyd, Lieven Vandenberghe
+
+**Introduction to Autonomous Mobile Robots** by Roland Siegwart, Illah Reza Nourbakhsh and Davide Scaramuzza
+
+**Probabilistic Robotics** by Dieter Fox, Sebastian Thrun, and Wolfram Burgard
+
+## Useful Resources
+
+- [\[RL Course by David Silver's\]](https://www.youtube.com/watch?v=2pWv7GOvuf0)
+
+- [\[Denny Britz's GitHub repository\]](https://github.com/dennybritz/reinforcement-learning)
+
+- [\[The Deep RL Bootcamp\]](https://sites.google.com/view/deep-rl-bootcamp/lectures)
+
+- [\[Deep Reinforcement Learning Hands-On 1st Edition\]](https://github.com/PacktPublishing/Deep-Reinforcement-Learning-Hands-On)
+
+- [\[Deep Reinforcement Learning Hands-On 2nd Edition\]](https://github.com/PacktPublishing/Deep-Reinforcement-Learning-Hands-On-Second-Edition)
+
+- [\[OpenAI Baselines\]](https://github.com/openai/baselines)
+
+- [\[Mathematics For Machine Learning\]](https://github.com/mml-book/mml-book.github.io)
+
+- [\[The Mathematical Engineering of Deep Learning\]](https://deeplearningmath.org/)
+
+- [\[Python Programming And Numerical Methods: A Guide For Engineers And Scientists\]](https://pythonnumericalmethods.berkeley.edu/notebooks/Index.html)
