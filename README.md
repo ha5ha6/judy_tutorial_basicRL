@@ -8,15 +8,15 @@ This repo includes
 
 Here are some detailed notes of **basicRL**:
 
-https://ha5ha6.github.io/judy_blog/basicrl/
+[\[Basic Reinforcement Learning\]](https://ha5ha6.github.io/judy_blog/basicrl/)
 
-https://ha5ha6.github.io/judy_blog/td/
+[\[Temporal-Difference Learning\]](https://ha5ha6.github.io/judy_blog/td/)
 
-https://ha5ha6.github.io/judy_blog/pgac/
+[\[Policy Gradient and Actor-Critic\]](https://ha5ha6.github.io/judy_blog/pgac/)
 
 Here are some classic implementations of **RL in control**:
 
-https://ha5ha6.github.io/judy_blog/cartpole/
+[\[All About Cartpole\]](https://ha5ha6.github.io/judy_blog/cartpole/)
 
 Let me know if you found any typo or mistakes :)
 
