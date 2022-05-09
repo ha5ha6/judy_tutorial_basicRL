@@ -74,20 +74,20 @@ Kober, Jens, J. Andrew Bagnell, and Jan Peters. "Reinforcement learning in robot
 
 ## Useful Resources
 
-- [\[RL Course by David Silver's\]](https://www.youtube.com/watch?v=2pWv7GOvuf0)
+[\[RL Course by David Silver's\]](https://www.youtube.com/watch?v=2pWv7GOvuf0)
 
-- [\[Denny Britz's GitHub repository\]](https://github.com/dennybritz/reinforcement-learning)
+[\[Denny Britz's GitHub repository\]](https://github.com/dennybritz/reinforcement-learning)
 
-- [\[The Deep RL Bootcamp\]](https://sites.google.com/view/deep-rl-bootcamp/lectures)
+[\[The Deep RL Bootcamp\]](https://sites.google.com/view/deep-rl-bootcamp/lectures)
 
-- [\[Deep Reinforcement Learning Hands-On 1st Edition\]](https://github.com/PacktPublishing/Deep-Reinforcement-Learning-Hands-On)
+[\[Deep Reinforcement Learning Hands-On 1st Edition\]](https://github.com/PacktPublishing/Deep-Reinforcement-Learning-Hands-On)
 
-- [\[Deep Reinforcement Learning Hands-On 2nd Edition\]](https://github.com/PacktPublishing/Deep-Reinforcement-Learning-Hands-On-Second-Edition)
+[\[Deep Reinforcement Learning Hands-On 2nd Edition\]](https://github.com/PacktPublishing/Deep-Reinforcement-Learning-Hands-On-Second-Edition)
 
-- [\[OpenAI Baselines\]](https://github.com/openai/baselines)
+[\[OpenAI Baselines\]](https://github.com/openai/baselines)
 
-- [\[Mathematics For Machine Learning\]](https://github.com/mml-book/mml-book.github.io)
+[\[Mathematics For Machine Learning\]](https://github.com/mml-book/mml-book.github.io)
 
-- [\[The Mathematical Engineering of Deep Learning\]](https://deeplearningmath.org/)
+[\[The Mathematical Engineering of Deep Learning\]](https://deeplearningmath.org/)
 
-- [\[Python Programming And Numerical Methods: A Guide For Engineers And Scientists\]](https://pythonnumericalmethods.berkeley.edu/notebooks/Index.html)
+[\[Python Programming And Numerical Methods: A Guide For Engineers And Scientists\]](https://pythonnumericalmethods.berkeley.edu/notebooks/Index.html)
