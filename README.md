@@ -46,6 +46,10 @@ Deisenroth, Marc Peter, Gerhard Neumann, and Jan Peters. "A survey on policy sea
 
 Kober, Jens, J. Andrew Bagnell, and Jan Peters. "Reinforcement learning in robotics: A survey." The International Journal of Robotics Research 32.11 (2013): 1238-1274.
 
+Schulman, John, et al. "High-dimensional continuous control using generalized advantage estimation." arXiv preprint arXiv:1506.02438 (2015).
+
+Sutton, Richard S., et al. "Policy gradient methods for reinforcement learning with function approximation." Advances in neural information processing systems 12 (1999).
+
 ## Further Reading
 
 **Neuro-Dynamic Programming** by Dimitri Bertsekas
@@ -80,15 +84,31 @@ Kober, Jens, J. Andrew Bagnell, and Jan Peters. "Reinforcement learning in robot
 
 [\[The Deep RL Bootcamp\]](https://sites.google.com/view/deep-rl-bootcamp/lectures)
 
+[\[RL Udacity\]](https://www.udacity.com/course/reinforcement-learning--ud600)
+
 [\[Deep Reinforcement Learning Hands-On 1st Edition\]](https://github.com/PacktPublishing/Deep-Reinforcement-Learning-Hands-On)
 
 [\[Deep Reinforcement Learning Hands-On 2nd Edition\]](https://github.com/PacktPublishing/Deep-Reinforcement-Learning-Hands-On-Second-Edition)
 
 [\[OpenAI Baselines\]](https://github.com/openai/baselines)
 
+[\[OpenAI Spinning Up\]](https://spinningup.openai.com/en/latest/)
+
+[\[Berkeley AI Research Blog\]](https://bair.berkeley.edu/blog/)
+
 [\[Mathematics For Machine Learning\]](https://github.com/mml-book/mml-book.github.io)
 
 [\[The Mathematical Engineering of Deep Learning\]](https://deeplearningmath.org/)
+
+[\[Marc Toussaint's teaching page \]](https://www.user.tu-berlin.de/mtoussai/teaching/)
+
+[\[Ashwin Rao's teaching page\]](https://stanford.edu/~ashlearn/)
+
+[\[Stanford cs231n\]](http://cs231n.stanford.edu/index.html)
+
+[\[Stanford cs229\]](https://cs229.stanford.edu/)
+
+[\[Stanford AI courses\]](https://ai.stanford.edu/courses/)
 
 [\[Python Programming And Numerical Methods: A Guide For Engineers And Scientists\]](https://pythonnumericalmethods.berkeley.edu/notebooks/Index.html)
 
