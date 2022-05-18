@@ -28,7 +28,7 @@ Let me know if you found any typo or mistakes :)
 
 **basicRL_3** - explanations of the learning mechanism of RL, including Bellman equations, one-step update rules, generalized policy iteration, Q-learning and Cliff Walking example
 
-**basicRL_4** - explanations of policy-based RL, including the concepts of objective function and gradient descent using linear regression example, REINFORCE and short corridor example
+**basicRL_4** - explanations of policy-based RL, including the concepts of objective function and gradient descent using linear regression example, REINFORCE, REINFORCE-baseline in Short Corridor and Cartpole-gym example
 
 ## Interesting Papers
 
