@@ -92,6 +92,8 @@ Sutton, Richard S., et al. "Policy gradient methods for reinforcement learning w
 
 [\[Deep Reinforcement Learning Hands-On 2nd Edition\]](https://github.com/PacktPublishing/Deep-Reinforcement-Learning-Hands-On-Second-Edition)
 
+[\[Dive into Deep Learning\]](https://www.d2l.ai/index.html)
+
 [\[OpenAI Baselines\]](https://github.com/openai/baselines)
 
 [\[OpenAI Spinning Up\]](https://spinningup.openai.com/en/latest/)
