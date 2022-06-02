@@ -4,6 +4,7 @@ This repo includes
 
 - slides of **basicRL** tutorials made by Judy
 - reading notes and some python implementations from **Reinforcement Learning an Introduction 2nd Edition** by Sutton and Barto
+- machine learning basics and their numpy examples
 - some interesting extensions and papers throughout the reading
 
 Here are some detailed notes of **basicRL**:
@@ -29,6 +30,8 @@ Let me know if you found any typo or mistakes :)
 **basicRL_3** - explanations of the learning mechanism of RL, including Bellman equations, one-step update rules, generalized policy iteration, Q-learning and Cliff Walking example
 
 **basicRL_4** - explanations of policy-based RL, including the concepts of objective function and gradient descent using linear regression example, REINFORCE, REINFORCE-baseline in Short Corridor and Cartpole-gym example
+
+**basicRL_5** - preparations for deep RL, including logistic regression, Bernoulli distribution, maximum likelihood estimation, cross entropy loss, batch, mini-batch and stochastic gradient descent and their implementations with two-feature Iris dataset 
 
 ## Interesting Papers
 
