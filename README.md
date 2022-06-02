@@ -31,7 +31,7 @@ Let me know if you found any typo or mistakes :)
 
 **basicRL_4** - explanations of policy-based RL, including the concepts of objective function and gradient descent using linear regression example, REINFORCE, REINFORCE-baseline in Short Corridor and Cartpole-gym example
 
-**basicRL_5** - preparations for deep RL, including logistic regression, Bernoulli distribution, maximum likelihood estimation, cross entropy loss, batch, mini-batch and stochastic gradient descent and their implementations with two-feature Iris dataset 
+**basicRL_5** - preparations for deep RL, including logistic regression, Bernoulli distribution, maximum likelihood estimation, cross entropy loss, batch, mini-batch and stochastic gradient descent and their implementations with two-feature Iris dataset
 
 ## Interesting Papers
 
@@ -116,6 +116,8 @@ Sutton, Richard S., et al. "Policy gradient methods for reinforcement learning w
 [\[Stanford cs229\]](https://cs229.stanford.edu/)
 
 [\[Stanford AI courses\]](https://ai.stanford.edu/courses/)
+
+[\[ML Glossary\]](https://ml-cheatsheet.readthedocs.io/en/latest/index.html#)
 
 [\[Python Programming And Numerical Methods: A Guide For Engineers And Scientists\]](https://pythonnumericalmethods.berkeley.edu/notebooks/Index.html)
 
