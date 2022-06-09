@@ -31,7 +31,9 @@ Let me know if you found any typo or mistakes :)
 
 **basicRL_4** - explanations of policy-based RL, including the concepts of objective function and gradient descent using linear regression example, REINFORCE, REINFORCE-baseline in Short Corridor and Cartpole-gym example
 
-**basicRL_5** - preparations for deep RL, including logistic regression, Bernoulli distribution, maximum likelihood estimation, cross entropy loss, batch, mini-batch and stochastic gradient descent and their implementations with two-feature Iris dataset
+**basicRL_5** - preparations for deep RL: logistic regression, Bernoulli distribution, Maximum Likelihood Estimation, cross entropy loss, batch, mini-batch and stochastic gradient descent and their implementations with two-feature Iris dataset
+
+**basicRL_6** - preparations for deep RL: softmax (multiclass logistic) regression, Multinomial distribution, MLE for softmax regression, feedforward neural networks (MultiLayer Perceptron), activation functions, loss functions, optimizers for nn, back-propagation, MNIST keras example, weights visualizations
 
 ## Interesting Papers
 
