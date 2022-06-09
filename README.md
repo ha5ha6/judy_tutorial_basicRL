@@ -23,13 +23,13 @@ Let me know if you found any typo or mistakes :)
 
 ## Contents of Slides
 
-**basicRL_1** - explanations of basic RL concepts like agent-environment interactions, (discrete/continuous) states, (discrete/continuous) actions, (the art of) rewards, (deterministic/stochastic) policies, (deterministic/stochastic) dynamics, and MDP
+**basicRL_1** - explanations of basic RL concepts: agent-environment interactions, (discrete/continuous) states, (discrete/continuous) actions, (the art of) rewards, (deterministic/stochastic) policies, (deterministic/stochastic) dynamics, and MDP
 
-**basicRL_2** - explanations of the goal of RL, with ingredients like episode, history trajectory, return, discounting factor, value functions, optimal value functions and optimal policy
+**basicRL_2** - explanations of the goal of RL: episode, history trajectory, return, discounting factor, value functions, optimal value functions and optimal policy
 
-**basicRL_3** - explanations of the learning mechanism of RL, including Bellman equations, one-step update rules, generalized policy iteration, Q-learning and Cliff Walking example
+**basicRL_3** - explanations of the learning mechanism of RL: Bellman equations, one-step update rules, generalized policy iteration, Q-learning and Cliff Walking example
 
-**basicRL_4** - explanations of policy-based RL, including the concepts of objective function and gradient descent using linear regression example, REINFORCE, REINFORCE-baseline in Short Corridor and Cartpole-gym example
+**basicRL_4** - explanations of policy-based RL: the concepts of objective function and gradient descent using linear regression example, REINFORCE, REINFORCE-baseline in Short Corridor and Cartpole-gym example
 
 **basicRL_5** - preparations for deep RL: logistic regression, Bernoulli distribution, Maximum Likelihood Estimation, cross entropy loss, batch, mini-batch and stochastic gradient descent and their implementations with two-feature Iris dataset
 
