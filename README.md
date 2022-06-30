@@ -33,7 +33,9 @@ Let me know if you found any typo or mistakes :)
 
 **basicRL_5** - preparations for deep RL: logistic regression, Bernoulli distribution, Maximum Likelihood Estimation, cross entropy loss, batch, mini-batch and stochastic gradient descent and their implementations with two-feature Iris dataset
 
-**basicRL_6** - preparations for deep RL: softmax (multiclass logistic) regression, Multinomial distribution, MLE for softmax regression, feedforward neural networks (MultiLayer Perceptron), activation functions, loss functions, optimizers for nn, back-propagation, MNIST keras example, weights visualizations
+**basicRL_6** - preparations for deep RL: softmax (multiclass logistic) regression, Multinomial distribution, MLE for softmax regression, feedforward neural networks (MultiLayer Perceptron), activation functions, loss functions, optimizers for nn, back-propagation, MNIST keras example, weights visualization
+
+**basicRL_6** - preparations for deep RL: convolution of two functions, convolution in images, convolution layer and max-pooling layer, convolutional neural networks (cnn), cnn in keras MNIST, visualizations of activations, filter visualizations of AlexNet, VGG, etc
 
 ## Interesting Papers
 
@@ -124,3 +126,25 @@ Sutton, Richard S., et al. "Policy gradient methods for reinforcement learning w
 [\[Python Programming And Numerical Methods: A Guide For Engineers And Scientists\]](https://pythonnumericalmethods.berkeley.edu/notebooks/Index.html)
 
 [\[Wolfram Alpha\]](https://www.wolframalpha.com/)
+
+## Useful Resources for CNN
+
+[\[Student Notes: Convolutional Neural Networks (CNN) Introduction\]](https://indoml.com/2018/03/07/student-notes-convolutional-neural-networks-cnn-introduction/)
+
+[\[CS231n CNN for Visual Recognition\]](https://cs231n.github.io/convolutional-networks/)
+
+[\[How convolutional neural networks see the world\]](https://blog.keras.io/how-convolutional-neural-networks-see-the-world.html)
+
+[\[Visualizing what convnets learn\]](https://keras.io/examples/vision/visualizing_what_convnets_learn/)
+
+[\[Applied Deep Learning - Part 4: Convolutional Neural Networks\]](https://towardsdatascience.com/applied-deep-learning-part-4-convolutional-neural-networks-584bc134c1e2)
+
+[\[Feature Visualization - How neural networks build up their understanding of images\]](https://distill.pub/2017/feature-visualization/)
+
+[\[Understanding Neural Networks Through Deep Visualization\]](https://yosinski.com/deepvis)
+
+[\[Convolutional Neural Network Visualizations\]](https://github.com/utkuozbulak/pytorch-cnn-visualizations)
+
+[\[Inceptionism: Going Deeper into Neural Networks\]](https://ai.googleblog.com/2015/06/inceptionism-going-deeper-into-neural.html)
+
+[\[Understanding your Convolution network with Visualizations\]](https://towardsdatascience.com/understanding-your-convolution-network-with-visualizations-a4883441533b)
