@@ -35,7 +35,7 @@ Let me know if you found any typo or mistakes :)
 
 **basicRL_6** - preparations for deep RL: softmax (multiclass logistic) regression, Multinomial distribution, MLE for softmax regression, feedforward neural networks (MultiLayer Perceptron), activation functions, loss functions, optimizers for nn, back-propagation, MNIST keras example, weights visualization
 
-**basicRL_6** - preparations for deep RL: convolution of two functions, convolution in images, convolution layer and max-pooling layer, convolutional neural networks (cnn), cnn in keras MNIST, visualizations of activations, filter visualizations of AlexNet, VGG, etc
+**basicRL_7** - preparations for deep RL: convolution of two functions, convolution in images, convolution layer and max-pooling layer, convolutional neural networks (cnn), cnn in keras MNIST, visualizations of activations, filter visualizations of AlexNet, VGG, etc
 
 ## Interesting Papers
 
