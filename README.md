@@ -127,7 +127,7 @@ Sutton, Richard S., et al. "Policy gradient methods for reinforcement learning w
 
 [\[Wolfram Alpha\]](https://www.wolframalpha.com/)
 
-## Useful Resources for CNN
+## Useful Resources for understanding CNN
 
 [\[Student Notes: Convolutional Neural Networks (CNN) Introduction\]](https://indoml.com/2018/03/07/student-notes-convolutional-neural-networks-cnn-introduction/)
 
